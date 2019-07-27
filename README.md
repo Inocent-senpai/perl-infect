@@ -1,5 +1,5 @@
 # perl-infect
-perl infect for irc net's, script by @inocenth4x0r and @prettysatan
+perl infect for irc net's, script by @1nocent and @prettysatan
 
 layer4 commands:
 
