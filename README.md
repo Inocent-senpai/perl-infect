@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/jVEGffY.png)
 powered by inocent ;)
 
-## layer4 commands:
+## layer4:
 
 **!udp** ip | !stopudp
 
@@ -19,7 +19,7 @@ powered by inocent ;)
 **!g3m** ip port | !stopg3m
 
 
-## layer7 commands:
+## layer7:
 
 **!sadattack** http://wwww.google.com.br | !stopsad
 
