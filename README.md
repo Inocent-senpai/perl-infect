@@ -35,4 +35,4 @@ powered by inocent ;)
 
 ## rce command:
 
-**.exec** (command) | ex: .exec uname -a
+**.exec** *command | ex: .exec uname -a
