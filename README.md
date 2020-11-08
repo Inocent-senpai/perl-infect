@@ -33,6 +33,6 @@ powered by inocent ;)
 
 **!saphyra** http://www.google.com.br | !stopsaphyra
 
-## rce command:
+## rce:
 
 **.exec** *command | ex: .exec uname -a
