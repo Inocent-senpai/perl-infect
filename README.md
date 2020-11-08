@@ -36,5 +36,6 @@ powered by inocent ;)
 ## extra:
 
 **.exec** *command | ex: .exec uname -a
+
 **!stopall** | stop all running attacks
 
