@@ -1,5 +1,6 @@
 # perl-infect
-powered by inocent from @pryzraky ;)
+![](https://i.imgur.com/jVEGffY.png)
+powered by inocent ;)
 
 ## layer4 commands:
 
