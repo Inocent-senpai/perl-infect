@@ -1,7 +1,7 @@
 # perl-infect
 perl infect for irc bots, powered by inocentinho @ pryzraky
 
-layer4 commands:
+## layer4 commands:
 
 !udp ip | !stopudp 
 
@@ -17,7 +17,7 @@ layer4 commands:
 
 
 
-layer7 commands:
+## layer7 commands:
 
 !sadattack http://wwww.google.com.br | !stopsad 
 
