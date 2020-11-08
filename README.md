@@ -1,5 +1,5 @@
 # perl-infect
-perl infect for irc bots, powered by inocent from @pryzraky
+powered by inocent from @pryzraky ;)
 
 ## layer4 commands:
 
