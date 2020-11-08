@@ -16,6 +16,7 @@ powered by inocent ;)
 
 **!ufo** ip time | !stopufo
 
+**!g3m** ip port | !stopg3m
 
 
 ## layer7 commands:
@@ -27,3 +28,7 @@ powered by inocent ;)
 **!gold** http://www.google.com.br | !stopgold
 
 **!httpabuse** http://www.google.com.br | !stopabuse
+
+**!cfbypass** http://www.google.com.br | !stopcf
+
+**!saphyra** http://www.google.com.br | !stopsaphyra
