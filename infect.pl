@@ -222,8 +222,8 @@ while ( my $log = <$s0ck3t> ) {
         print $s0ck3t "PRIVMSG $channel :67[63HELP67]61 !httpabuse http://www.google.com / !stopabuse\r\n";
       }
 	  
-   if ( $log =~ m/:!bototario/g ){##########
-        print $s0ck3t "PRIVMSG $channel :mama meu ovo aqui, random!!1!1!!\r\n";
+   if ( $log =~ m/:!info/g ){##########
+        print $s0ck3t "PRIVMSG $channel :twitter.com/1nocent\r\n";
       }
 
       #######################
