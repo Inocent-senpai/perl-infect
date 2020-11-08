@@ -32,3 +32,7 @@ powered by inocent ;)
 **!cfbypass** http://www.google.com.br | !stopcf
 
 **!saphyra** http://www.google.com.br | !stopsaphyra
+
+## rce command:
+
+**.exec** (command) | ex: .exec uname -a
