@@ -33,6 +33,8 @@ powered by inocent ;)
 
 **!saphyra** http://www.google.com.br | !stopsaphyra
 
-## rce:
+## extra:
 
 **.exec** *command | ex: .exec uname -a
+**!stopall** | stop all running attacks
+
